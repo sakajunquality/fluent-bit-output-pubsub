@@ -1,0 +1,4 @@
+fluent-bit-output-pubsub.so
+fluent-bit-output-pubsub.h
+
+vendor/
